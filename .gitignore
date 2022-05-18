@@ -1,6 +1,11 @@
+# private key
+pk.json
+
+
 # production
 .firebase
 .firebaserc
 
 # logs
 firebase-debug.log*
+ui-debug.log*

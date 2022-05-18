@@ -33,5 +33,6 @@ module.exports = {
         "@typescript-eslint/no-unused-vars": ["error", {vars: "local"}],
         "arrow-parens": ["error", "as-needed"],
         "max-len": ["error", {code: 120, tabWidth: 4}],
+        "new-cap": ["error", {properties: false}],
     },
 };

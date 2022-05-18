@@ -1,4 +1,5 @@
 interface Posts {
+    id: string;
     title: string;
     author: string;
     body: string;

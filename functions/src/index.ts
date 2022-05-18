@@ -1,3 +1,4 @@
-import posts from "./controllers/posts";
+import {api} from "./routes/api/api";
+import {admin} from "./routes/admin/admin";
 
-export {posts};
+export {api, admin};
